@@ -106,4 +106,4 @@ Deploy dashboard on cloud platform (AWS / Streamlit Cloud)
 👤 Author
 
 D.Amma Sri Lakshmi
-GitHub: https://github.com/https://github.com/srilakshmi61/crypto_currency
+GitHub: https://github.com/srilakshmi61/crypto_currency
